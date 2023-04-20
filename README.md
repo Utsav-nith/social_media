@@ -1,6 +1,6 @@
 #SOCIAL_MEDIA
 Live Project Link--- https://letsocial.onrender.com
 
-#Developed a Responsive MERN Application with CRUD functionalities where user can share their feelings and upload images.
-#Built front-end with React.js ,backend with Node.js and Express.js and used MongoDB as database with MVC architecture pattern.
-#Added theme feature in the application along with add/remove friend, comment and like functionalities.
+#Designed and implemented a responsive social media application with CRUD functionalities, user authentication, and the MVC architecture pattern.
+#Added a theme feature, add/remove friend, comment, and like functionalities for an enhanced user experience using Material UI.
+#Made the application available to the public by deploying it on Render.
